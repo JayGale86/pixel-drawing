@@ -1,4 +1,4 @@
 # pixel-drawing
-Created with CodeSandbox
+https://codesandbox.io/s/github/JayGale86/pixel-drawing
 
 Side Project - Creating a pixel art app
